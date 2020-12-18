@@ -1,0 +1,2 @@
+# Math-Wizard
+Math wizard is an app that gives you detailed and step by step solutions of math problems related to numerical methods . There are many numerical methods using a huge iterative process , it’s also hard for students to find out on which iteration they make the mistake . It takes a huge amount of time for beginners to find that out. Even some lost the will to learn numerical methods. With the help of a step by step solution of Math Wizard students can now easily find out their mistakes and correct them.
